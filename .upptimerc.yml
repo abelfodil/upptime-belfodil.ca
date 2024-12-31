@@ -1,36 +1,100 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: abelfodil
+repo: upptime-belfodil.ca
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: argo-cd-argocd-server
+    url: https://argo.belfodil.ca
+  - name: bazarr
+    url: https://bazarr.belfodil.ca
+  - name: duplicati
+    url: https://duplicati.belfodil.ca
+  - name: epicgames-freegames
+    expectedStatusCodes:
+      - 502
+    url: https://epicgames-freegames.belfodil.ca
+  - name: filebrowser
+    url: https://filebrowser.belfodil.ca
+  - name: gotify
+    url: https://gotify.belfodil.ca
+  - name: homer-operator
+    url: https://dash.belfodil.ca
+  - name: immich
+    url: https://immich.belfodil.ca
+  - name: jellyfin
+    url: https://jellyfin.belfodil.ca
+  - name: jellyseerr
+    url: https://jellyseerr.belfodil.ca
+  - name: keel
+    url: https://keel.belfodil.ca
+  - name: kubeclarity-kubeclarity
+    url: https://kubeclarity.belfodil.ca
+    expectedStatusCodes:
+      - 401
+  - name: kubernetes-dashboard
+    url: https://kubernetes.belfodil.ca
+  - name: miniflux
+    url: https://miniflux.belfodil.ca
+  - name: netdata
+    url: https://netdata.belfodil.ca
+    expectedStatusCodes:
+      - 401
+  - name: nextcloud
+    url: https://nextcloud.belfodil.ca
+  - name: nodemation
+    url: https://n8n.belfodil.ca
+  - name: obico-server
+    url: https://obico.belfodil.ca
+  - name: octoprint
+    url: https://octoprint.belfodil.ca
+  - name: octoprint-webcam
+    url: https://octoprint-webcam.belfodil.ca
+    expectedStatusCodes:
+      - 401
+  - name: pgadmin4
+    url: https://pgadmin4.belfodil.ca
+  - name: prowlarr
+    url: https://prowlarr.belfodil.ca
+  - name: radarr
+    url: https://radarr.belfodil.ca
+  - name: readarr
+    url: https://readarr.belfodil.ca
+  - name: sonarr
+    url: https://sonarr.belfodil.ca
+  - name: speedtest-tracker
+    url: https://speedtest.belfodil.ca
+  - name: tandoor
+    url: https://tandoor.belfodil.ca
+  - name: tdarr
+    url: https://tdarr.belfodil.ca
+  - name: transmission
+    url: https://transmission.belfodil.ca
+    expectedStatusCodes:
+      - 401
+  - name: traefik-dashboard
+    url: https://traefik.belfodil.ca
+    expectedStatusCodes:
+      - 401
+  - name: Minecraft Bedrock
+    url: https://api.mcsrvstat.us/bedrock/simple/home.belfodil.ca:30778
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: upptime-belfodil.ca
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime for belfodil.ca
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Uptime page for belfodil.ca
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
