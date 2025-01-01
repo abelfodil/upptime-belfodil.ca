@@ -1,0 +1,22 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: upptime
+  namespace: default
+  annotations:
+    homer.service.name: Monitoring
+    homer.item.logo: "https://raw.githubusercontent.com/upptime/upptime/1025d983b1a25e97c1737e636f20dd39441e7f86/assets/upptime-icon.svg"
+    homer.item.url: "https://abelfodil.github.io/upptime-belfodil.ca"
+spec:
+  # Dummy values
+  rules:
+    - host: test
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: test
+                port: 
+                  name: web
