@@ -1,7 +1,7 @@
 url: https://miniflux.belfodil.ca
-status: up
-code: 200
-responseTime: 218
-lastUpdated: 2024-12-31T23:09:42.044Z
+status: down
+code: 503
+responseTime: 190
+lastUpdated: 2025-01-01T21:21:07.977Z
 startTime: 2024-12-31T04:18:36.398Z
 generator: Upptime <https://github.com/upptime/upptime>
