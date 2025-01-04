@@ -77,15 +77,6 @@ sites:
   - name: Minecraft Bedrock
     url: https://api.mcsrvstat.us/bedrock/simple/home.belfodil.ca:30778
 
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
-
 status-website:
   baseUrl: upptime-belfodil.ca
   theme: dark
