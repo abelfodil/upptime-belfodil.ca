@@ -9,6 +9,7 @@ metadata:
     homer.item.url: "https://abelfodil.github.io/upptime-belfodil.ca"
 spec:
   # Dummy values
+  ingressClassName: none
   rules:
     - host: test
       http:
