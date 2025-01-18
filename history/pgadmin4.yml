@@ -1,7 +1,7 @@
 url: https://pgadmin4.belfodil.ca
-status: up
-code: 200
-responseTime: 71
-lastUpdated: 2025-01-17T23:09:23.828Z
+status: down
+code: 521
+responseTime: 90
+lastUpdated: 2025-01-18T10:36:44.555Z
 startTime: 2024-12-31T04:18:40.477Z
 generator: Upptime <https://github.com/upptime/upptime>
