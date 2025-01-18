@@ -1,7 +1,7 @@
 url: https://sonarr.belfodil.ca
-status: down
-code: 521
-responseTime: 78
-lastUpdated: 2025-01-18T10:36:47.324Z
+status: up
+code: 200
+responseTime: 611
+lastUpdated: 2025-01-18T13:46:58.416Z
 startTime: 2024-12-31T04:18:42.622Z
 generator: Upptime <https://github.com/upptime/upptime>
