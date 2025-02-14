@@ -1,7 +1,7 @@
 url: https://nextcloud.belfodil.ca
-status: up
-code: 200
-responseTime: 390
-lastUpdated: 2025-02-13T23:10:00.665Z
+status: down
+code: 500
+responseTime: 463
+lastUpdated: 2025-02-14T04:44:27.002Z
 startTime: 2024-12-31T04:18:37.363Z
 generator: Upptime <https://github.com/upptime/upptime>
