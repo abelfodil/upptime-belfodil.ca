@@ -1,7 +1,7 @@
 url: https://readarr.belfodil.ca
-status: up
-code: 200
-responseTime: 116
-lastUpdated: 2025-03-02T23:10:07.707Z
+status: down
+code: 502
+responseTime: 301
+lastUpdated: 2025-03-03T00:00:09.841Z
 startTime: 2024-12-31T04:18:42.079Z
 generator: Upptime <https://github.com/upptime/upptime>
