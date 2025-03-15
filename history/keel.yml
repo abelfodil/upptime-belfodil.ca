@@ -1,7 +1,7 @@
 url: https://keel.belfodil.ca
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 314
-lastUpdated: 2025-03-15T15:15:30.349Z
+lastUpdated: 2025-03-15T16:53:27.329Z
 startTime: 2024-12-31T04:18:34.875Z
 generator: Upptime <https://github.com/upptime/upptime>
