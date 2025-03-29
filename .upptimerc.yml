@@ -4,6 +4,8 @@ repo: upptime-belfodil.ca
 sites:
   - name: argo-cd-argocd-server
     url: https://argo.belfodil.ca
+    expectedStatusCodes:
+      - 403
   - name: bazarr
     url: https://bazarr.belfodil.ca
   - name: duplicati
@@ -26,10 +28,12 @@ sites:
     url: https://jellyseerr.belfodil.ca
   - name: keel
     url: https://keel.belfodil.ca
+    expectedStatusCodes:
+      - 403
   - name: kubeclarity-kubeclarity
     url: https://kubeclarity.belfodil.ca
     expectedStatusCodes:
-      - 401
+      - 403
   - name: kubernetes-dashboard
     url: https://kubernetes.belfodil.ca
   - name: miniflux
@@ -37,7 +41,7 @@ sites:
   - name: netdata
     url: https://netdata.belfodil.ca
     expectedStatusCodes:
-      - 401
+      - 403
   - name: nextcloud
     url: https://nextcloud.belfodil.ca
   - name: nodemation
@@ -52,6 +56,8 @@ sites:
       - 401
   - name: pgadmin4
     url: https://pgadmin4.belfodil.ca
+    expectedStatusCodes:
+      - 403
   - name: prowlarr
     url: https://prowlarr.belfodil.ca
   - name: radarr
@@ -73,7 +79,7 @@ sites:
   - name: traefik-dashboard
     url: https://traefik.belfodil.ca
     expectedStatusCodes:
-      - 401
+      - 403
   - name: Minecraft Bedrock
     url: https://api.mcsrvstat.us/bedrock/simple/home.belfodil.ca:30778
 
