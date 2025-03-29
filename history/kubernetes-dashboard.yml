@@ -1,7 +1,7 @@
 url: https://kubernetes.belfodil.ca
-status: down
-code: 403
-responseTime: 234
-lastUpdated: 2025-03-29T19:08:51.823Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-03-29T19:29:01.353Z
 startTime: 2024-12-31T04:18:35.888Z
 generator: Upptime <https://github.com/upptime/upptime>
