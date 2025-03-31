@@ -1,7 +1,7 @@
 url: https://speedtest.belfodil.ca
-status: up
-code: 200
-responseTime: 13408
-lastUpdated: 2025-03-31T07:53:27.977Z
+status: down
+code: 503
+responseTime: 168
+lastUpdated: 2025-03-31T08:29:09.684Z
 startTime: 2024-12-31T04:18:43.261Z
 generator: Upptime <https://github.com/upptime/upptime>
