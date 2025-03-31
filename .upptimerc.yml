@@ -22,6 +22,10 @@ sites:
     url: https://dash.belfodil.ca
   - name: immich
     url: https://immich.belfodil.ca
+  - name: jaeger
+    url: https://jaeger.belfodil.ca
+    expectedStatusCodes:
+      - 403
   - name: jellyfin
     url: https://jellyfin.belfodil.ca
   - name: jellyseerr
