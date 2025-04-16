@@ -22,6 +22,8 @@ sites:
     url: https://dash.belfodil.ca
   - name: immich
     url: https://immich.belfodil.ca
+  - name: inventree
+    url: https://inventree.belfodil.ca
   - name: jaeger
     url: https://jaeger.belfodil.ca
     expectedStatusCodes:
@@ -70,6 +72,10 @@ sites:
     url: https://radarr.belfodil.ca
   - name: readarr
     url: https://readarr.belfodil.ca
+  - name: redis-insight
+    url: https://redis.belfodil.ca
+    expectedStatusCodes:
+      - 403
   - name: sonarr
     url: https://sonarr.belfodil.ca
   - name: speedtest-tracker
