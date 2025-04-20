@@ -1,7 +1,7 @@
 url: https://jaeger.belfodil.ca
-status: up
-code: 403
-responseTime: 200
-lastUpdated: 2025-04-20T14:34:48.262Z
+status: down
+code: 404
+responseTime: 308
+lastUpdated: 2025-04-20T15:30:16.560Z
 startTime: 2025-03-31T16:49:16.885Z
 generator: Upptime <https://github.com/upptime/upptime>
