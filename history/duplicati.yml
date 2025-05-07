@@ -1,7 +1,7 @@
 url: https://duplicati.belfodil.ca
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2025-05-06T23:10:45.930Z
+status: down
+code: 403
+responseTime: 395
+lastUpdated: 2025-05-07T17:51:02.686Z
 startTime: 2024-12-31T04:18:30.513Z
 generator: Upptime <https://github.com/upptime/upptime>
