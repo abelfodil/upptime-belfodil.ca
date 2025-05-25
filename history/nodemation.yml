@@ -1,7 +1,7 @@
 url: https://n8n.belfodil.ca
-status: down
-code: 503
-responseTime: 175
-lastUpdated: 2025-05-25T17:32:02.915Z
+status: up
+code: 200
+responseTime: 16998
+lastUpdated: 2025-05-25T17:48:42.926Z
 startTime: 2024-12-31T04:18:38.271Z
 generator: Upptime <https://github.com/upptime/upptime>
