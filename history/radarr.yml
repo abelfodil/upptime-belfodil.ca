@@ -1,7 +1,7 @@
 url: https://radarr.belfodil.ca
-status: down
-code: 525
-responseTime: 161
-lastUpdated: 2025-05-29T22:47:09.100Z
+status: up
+code: 200
+responseTime: 576
+lastUpdated: 2025-05-29T22:54:42.790Z
 startTime: 2024-12-31T04:18:41.533Z
 generator: Upptime <https://github.com/upptime/upptime>
