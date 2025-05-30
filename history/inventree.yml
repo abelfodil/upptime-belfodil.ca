@@ -1,7 +1,7 @@
 url: https://inventree.belfodil.ca
-status: up
-code: 200
-responseTime: 759
-lastUpdated: 2025-05-30T03:05:07.977Z
+status: down
+code: 502
+responseTime: 244
+lastUpdated: 2025-05-30T15:14:52.161Z
 startTime: 2025-04-16T16:39:57.048Z
 generator: Upptime <https://github.com/upptime/upptime>
