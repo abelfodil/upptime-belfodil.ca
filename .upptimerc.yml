@@ -32,10 +32,6 @@ sites:
     url: https://jellyfin.belfodil.ca
   - name: jellyseerr
     url: https://jellyseerr.belfodil.ca
-  - name: keel
-    url: https://keel.belfodil.ca
-    expectedStatusCodes:
-      - 403
   - name: kubeclarity-kubeclarity
     url: https://kubeclarity.belfodil.ca
     expectedStatusCodes:
