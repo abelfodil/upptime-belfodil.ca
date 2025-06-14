@@ -1,7 +1,7 @@
 url: https://argo.belfodil.ca
-status: down
-code: 404
-responseTime: 338
-lastUpdated: 2025-06-14T09:21:21.318Z
+status: up
+code: 403
+responseTime: 400
+lastUpdated: 2025-06-14T09:37:12.904Z
 startTime: 2024-12-31T04:18:29.487Z
 generator: Upptime <https://github.com/upptime/upptime>
