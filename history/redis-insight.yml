@@ -1,7 +1,7 @@
 url: https://redis.belfodil.ca
-status: down
-code: 404
-responseTime: 198
-lastUpdated: 2025-06-15T14:51:54.510Z
+status: up
+code: 403
+responseTime: 216
+lastUpdated: 2025-06-15T14:58:48.015Z
 startTime: 2025-04-16T16:40:09.732Z
 generator: Upptime <https://github.com/upptime/upptime>
