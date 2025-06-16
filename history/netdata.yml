@@ -1,7 +1,7 @@
 url: https://netdata.belfodil.ca
-status: down
-code: 404
-responseTime: 361
-lastUpdated: 2025-06-16T12:28:38.467Z
+status: up
+code: 403
+responseTime: 240
+lastUpdated: 2025-06-16T13:08:51.237Z
 startTime: 2024-12-31T04:18:36.897Z
 generator: Upptime <https://github.com/upptime/upptime>
