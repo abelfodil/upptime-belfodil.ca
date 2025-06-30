@@ -795,19 +795,19 @@
     "url": "https://n8n.belfodil.ca",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.belfodil.ca.ico",
     "slug": "nodemation",
-    "status": "up",
-    "uptime": "95.20%",
-    "uptimeDay": "39.02%",
-    "uptimeWeek": "33.37%",
+    "status": "down",
+    "uptime": "95.22%",
+    "uptimeDay": "38.97%",
+    "uptimeWeek": "33.75%",
     "uptimeMonth": "73.71%",
-    "uptimeYear": "95.20%",
+    "uptimeYear": "95.22%",
     "time": 795,
-    "timeDay": 427,
+    "timeDay": 426,
     "timeWeek": 883,
     "timeMonth": 1120,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-06-30": 743,
+      "2025-06-30": 744,
       "2025-06-29": 1037,
       "2025-06-28": 1332,
       "2025-06-27": 1440,
@@ -833,8 +833,7 @@
       "2025-05-26": 48,
       "2025-05-25": 267,
       "2025-05-18": 196,
-      "2025-05-17": 299,
-      "2025-05-08": 29
+      "2025-05-17": 299
     }
   },
   {
