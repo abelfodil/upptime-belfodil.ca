@@ -1,7 +1,7 @@
 url: https://prowlarr.belfodil.ca
-status: up
-code: 200
-responseTime: 261
-lastUpdated: 2025-07-09T21:49:36.993Z
+status: down
+code: 404
+responseTime: 255
+lastUpdated: 2025-07-09T22:55:37.033Z
 startTime: 2024-12-31T04:18:41.003Z
 generator: Upptime <https://github.com/upptime/upptime>
