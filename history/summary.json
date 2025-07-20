@@ -764,19 +764,19 @@
     "url": "https://netbox.belfodil.ca",
     "icon": "https://icons.duckduckgo.com/ip3/netbox.belfodil.ca.ico",
     "slug": "netbox",
-    "status": "down",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
-    "time": 290,
-    "timeDay": 290,
-    "timeWeek": 290,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "status": "up",
+    "uptime": "10.93%",
+    "uptimeDay": "10.93%",
+    "uptimeWeek": "10.93%",
+    "uptimeMonth": "10.93%",
+    "uptimeYear": "10.93%",
+    "time": 441,
+    "timeDay": 441,
+    "timeWeek": 441,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-07-20": 2
+      "2025-07-20": 7
     }
   },
   {
