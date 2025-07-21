@@ -1,7 +1,7 @@
 url: https://netbox.belfodil.ca
-status: down
-code: 503
-responseTime: 272
-lastUpdated: 2025-07-21T01:01:22.821Z
+status: up
+code: 200
+responseTime: 378
+lastUpdated: 2025-07-21T03:07:54.848Z
 startTime: 2025-07-20T17:02:21.250Z
 generator: Upptime <https://github.com/upptime/upptime>
