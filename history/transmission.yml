@@ -1,7 +1,7 @@
 url: https://transmission.belfodil.ca
-status: down
-code: 503
-responseTime: 442
-lastUpdated: 2025-07-23T19:53:39.000Z
+status: up
+code: 401
+responseTime: 457
+lastUpdated: 2025-07-23T20:27:31.712Z
 startTime: 2024-12-31T04:18:45.554Z
 generator: Upptime <https://github.com/upptime/upptime>
