@@ -1,7 +1,7 @@
 url: https://filebrowser.belfodil.ca
-status: up
-code: 200
-responseTime: 313
-lastUpdated: 2025-08-04T23:12:31.064Z
+status: down
+code: 503
+responseTime: 252
+lastUpdated: 2025-08-05T19:11:35.859Z
 startTime: 2024-12-31T04:18:31.548Z
 generator: Upptime <https://github.com/upptime/upptime>
