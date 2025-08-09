@@ -8,8 +8,6 @@ sites:
       - 403
   - name: bazarr
     url: https://bazarr.belfodil.ca
-  - name: duplicati
-    url: https://duplicati.belfodil.ca
   - name: epicgames-freegames
     expectedStatusCodes:
       - 502
