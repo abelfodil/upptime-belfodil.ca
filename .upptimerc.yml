@@ -38,6 +38,8 @@ sites:
     url: https://kubernetes.belfodil.ca
     expectedStatusCodes:
       - 403
+  - name: lazylibrarian
+    url: https://lib.belfodil.ca
   - name: miniflux
     url: https://miniflux.belfodil.ca
   - name: netbox
@@ -66,8 +68,6 @@ sites:
     url: https://prowlarr.belfodil.ca
   - name: radarr
     url: https://radarr.belfodil.ca
-  - name: readarr
-    url: https://readarr.belfodil.ca
   - name: redis-insight
     url: https://redis.belfodil.ca
     expectedStatusCodes:
