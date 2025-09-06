@@ -16,6 +16,10 @@ sites:
     url: https://filebrowser.belfodil.ca
   - name: gotify
     url: https://gotify.belfodil.ca
+  - name: grafana
+    url: https://grafana.belfodil.ca
+    expectedStatusCodes:
+      - 403
   - name: homer-operator
     url: https://dash.belfodil.ca
   - name: immich
@@ -44,10 +48,6 @@ sites:
     url: https://miniflux.belfodil.ca
   - name: netbox
     url: https://netbox.belfodil.ca
-  - name: netdata
-    url: https://netdata.belfodil.ca
-    expectedStatusCodes:
-      - 403
   - name: nextcloud
     url: https://nextcloud.belfodil.ca
   - name: nodemation
