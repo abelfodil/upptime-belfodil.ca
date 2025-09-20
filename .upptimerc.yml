@@ -26,10 +26,6 @@ sites:
     url: https://immich.belfodil.ca
   - name: inventree
     url: https://inventree.belfodil.ca
-  - name: jaeger
-    url: https://jaeger.belfodil.ca
-    expectedStatusCodes:
-      - 403
   - name: jellyfin
     url: https://jellyfin.belfodil.ca
   - name: jellyseerr
