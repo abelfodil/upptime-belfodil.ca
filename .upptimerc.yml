@@ -30,10 +30,6 @@ sites:
     url: https://jellyfin.belfodil.ca
   - name: jellyseerr
     url: https://jellyseerr.belfodil.ca
-  - name: kubeclarity-kubeclarity
-    url: https://kubeclarity.belfodil.ca
-    expectedStatusCodes:
-      - 403
   - name: kubernetes-dashboard
     url: https://kubernetes.belfodil.ca
     expectedStatusCodes:
