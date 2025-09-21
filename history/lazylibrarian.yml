@@ -1,7 +1,7 @@
 url: https://lib.belfodil.ca
-status: up
-code: 200
-responseTime: 467
-lastUpdated: 2025-09-21T02:11:10.396Z
+status: down
+code: 503
+responseTime: 220
+lastUpdated: 2025-09-21T19:44:51.744Z
 startTime: 2025-08-24T18:26:00.820Z
 generator: Upptime <https://github.com/upptime/upptime>
