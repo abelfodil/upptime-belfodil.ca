@@ -1,7 +1,7 @@
 url: https://gotify.belfodil.ca
-status: down
-code: 503
-responseTime: 186
-lastUpdated: 2025-09-30T17:49:14.062Z
+status: up
+code: 200
+responseTime: 3108
+lastUpdated: 2025-09-30T17:56:22.750Z
 startTime: 2024-12-31T04:18:32.099Z
 generator: Upptime <https://github.com/upptime/upptime>
