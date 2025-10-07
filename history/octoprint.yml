@@ -1,7 +1,7 @@
 url: https://octoprint.belfodil.ca
-status: down
-code: 503
-responseTime: 280
-lastUpdated: 2025-10-07T03:05:09.023Z
+status: up
+code: 200
+responseTime: 6070
+lastUpdated: 2025-10-07T09:42:34.129Z
 startTime: 2024-12-31T04:18:39.363Z
 generator: Upptime <https://github.com/upptime/upptime>
