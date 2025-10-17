@@ -1,7 +1,7 @@
 url: https://bazarr.belfodil.ca
-status: down
-code: 502
-responseTime: 2961
-lastUpdated: 2025-10-17T10:36:26.930Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2025-10-17T10:46:17.444Z
 startTime: 2024-12-31T04:18:30.017Z
 generator: Upptime <https://github.com/upptime/upptime>
