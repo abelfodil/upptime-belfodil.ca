@@ -1,7 +1,7 @@
 url: https://tdarr.belfodil.ca
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2025-10-19T23:10:28.954Z
+status: down
+code: 502
+responseTime: 313
+lastUpdated: 2025-10-20T04:46:25.727Z
 startTime: 2024-12-31T04:18:45.038Z
 generator: Upptime <https://github.com/upptime/upptime>
