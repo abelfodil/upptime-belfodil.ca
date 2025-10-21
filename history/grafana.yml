@@ -1,7 +1,7 @@
 url: https://grafana.belfodil.ca
-status: up
-code: 403
-responseTime: 239
-lastUpdated: 2025-10-20T23:10:48.762Z
+status: down
+code: 521
+responseTime: 169
+lastUpdated: 2025-10-21T16:53:23.485Z
 startTime: 2025-09-06T06:04:46.588Z
 generator: Upptime <https://github.com/upptime/upptime>
