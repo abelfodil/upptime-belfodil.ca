@@ -1,7 +1,7 @@
 url: https://octoprint-webcam.belfodil.ca
-status: down
-code: 403
-responseTime: 859
-lastUpdated: 2025-10-23T07:31:45.243Z
+status: up
+code: 401
+responseTime: 430
+lastUpdated: 2025-10-23T07:41:57.409Z
 startTime: 2024-12-31T04:18:39.982Z
 generator: Upptime <https://github.com/upptime/upptime>
