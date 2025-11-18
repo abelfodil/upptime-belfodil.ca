@@ -68,8 +68,6 @@ sites:
     url: https://sonarr.belfodil.ca
   - name: speedtest-tracker
     url: https://speedtest.belfodil.ca
-  - name: tandoor
-    url: https://tandoor.belfodil.ca
   - name: tdarr
     url: https://tdarr.belfodil.ca
   - name: transmission
