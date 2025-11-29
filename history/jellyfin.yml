@@ -1,7 +1,7 @@
 url: https://jellyfin.belfodil.ca
-status: down
-code: 403
-responseTime: 442
-lastUpdated: 2025-11-29T21:47:57.301Z
+status: up
+code: 200
+responseTime: 397
+lastUpdated: 2025-11-29T21:54:27.227Z
 startTime: 2024-12-31T04:18:33.641Z
 generator: Upptime <https://github.com/upptime/upptime>
