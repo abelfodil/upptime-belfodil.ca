@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.27%",
-    "time": 574,
-    "timeDay": 438,
-    "timeWeek": 375,
-    "timeMonth": 911,
+    "time": 573,
+    "timeDay": 205,
+    "timeWeek": 338,
+    "timeMonth": 910,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2025-12-01": 418,
@@ -43,8 +43,7 @@
       "2025-02-01": 34,
       "2025-01-18": 189,
       "2025-01-11": 173,
-      "2025-01-10": 380,
-      "2025-01-01": 41
+      "2025-01-10": 380
     }
   },
   {
@@ -53,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.belfodil.ca.ico",
     "slug": "authentik",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.98%",
-    "uptimeYear": "98.46%",
-    "time": 1743,
-    "timeDay": 883,
-    "timeWeek": 796,
-    "timeMonth": 1276,
-    "timeYear": 1743,
+    "uptimeYear": "98.47%",
+    "time": 1725,
+    "timeDay": 521,
+    "timeWeek": 753,
+    "timeMonth": 1272,
+    "timeYear": 1725,
     "dailyMinutesDown": {
       "2025-12-19": 27,
       "2025-12-01": 418,
@@ -85,8 +84,8 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.66%",
     "time": 495,
-    "timeDay": 455,
-    "timeWeek": 362,
+    "timeDay": 219,
+    "timeWeek": 334,
     "timeMonth": 892,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -150,8 +149,7 @@
       "2025-02-01": 33,
       "2025-01-18": 190,
       "2025-01-11": 155,
-      "2025-01-10": 378,
-      "2025-01-01": 60
+      "2025-01-10": 378
     }
   },
   {
@@ -166,9 +164,9 @@
     "uptimeMonth": "98.88%",
     "uptimeYear": "98.40%",
     "time": 439,
-    "timeDay": 440,
-    "timeWeek": 378,
-    "timeMonth": 849,
+    "timeDay": 185,
+    "timeWeek": 342,
+    "timeMonth": 847,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-12-16": 40,
@@ -246,9 +244,9 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.38%",
     "time": 385,
-    "timeDay": 469,
-    "timeWeek": 383,
-    "timeMonth": 347,
+    "timeDay": 211,
+    "timeWeek": 348,
+    "timeMonth": 346,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-12-01": 418,
@@ -303,8 +301,7 @@
       "2025-02-01": 795,
       "2025-01-18": 190,
       "2025-01-11": 154,
-      "2025-01-10": 374,
-      "2025-01-01": 41
+      "2025-01-10": 374
     }
   },
   {
@@ -318,10 +315,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.32%",
-    "time": 408,
-    "timeDay": 455,
-    "timeWeek": 364,
-    "timeMonth": 345,
+    "time": 407,
+    "timeDay": 194,
+    "timeWeek": 326,
+    "timeMonth": 344,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2025-12-01": 418,
@@ -379,8 +376,7 @@
       "2025-02-01": 793,
       "2025-01-18": 190,
       "2025-01-11": 154,
-      "2025-01-10": 372,
-      "2025-01-01": 60
+      "2025-01-10": 372
     }
   },
   {
@@ -394,11 +390,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.37%",
-    "time": 363,
-    "timeDay": 483,
-    "timeWeek": 372,
+    "time": 362,
+    "timeDay": 218,
+    "timeWeek": 340,
     "timeMonth": 347,
-    "timeYear": 363,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2025-12-01": 418,
       "2025-11-29": 52,
@@ -419,16 +415,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ha.belfodil.ca.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "98.48%",
-    "time": 783,
-    "timeDay": 434,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 783,
+    "uptimeYear": "98.49%",
+    "time": 774,
+    "timeDay": 233,
+    "timeWeek": 323,
+    "timeMonth": 352,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2025-12-01": 418,
       "2025-11-30": 143,
@@ -444,14 +440,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.belfodil.ca.ico",
     "slug": "homer-operator",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.44%",
     "time": 420,
-    "timeDay": 441,
-    "timeWeek": 364,
+    "timeDay": 209,
+    "timeWeek": 333,
     "timeMonth": 383,
     "timeYear": 420,
     "dailyMinutesDown": {
@@ -503,8 +499,7 @@
       "2025-02-01": 792,
       "2025-01-18": 190,
       "2025-01-11": 154,
-      "2025-01-10": 366,
-      "2025-01-01": 41
+      "2025-01-10": 366
     }
   },
   {
@@ -519,8 +514,8 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "98.18%",
     "time": 332,
-    "timeDay": 428,
-    "timeWeek": 366,
+    "timeDay": 222,
+    "timeWeek": 331,
     "timeMonth": 347,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -585,8 +580,7 @@
       "2025-02-01": 790,
       "2025-01-18": 190,
       "2025-01-11": 154,
-      "2025-01-10": 364,
-      "2025-01-01": 61
+      "2025-01-10": 364
     }
   },
   {
@@ -601,9 +595,9 @@
     "uptimeMonth": "99.00%",
     "uptimeYear": "96.60%",
     "time": 572,
-    "timeDay": 698,
-    "timeWeek": 655,
-    "timeMonth": 637,
+    "timeDay": 335,
+    "timeWeek": 611,
+    "timeMonth": 634,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-12-14": 21,
@@ -677,8 +671,8 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.36%",
     "time": 416,
-    "timeDay": 550,
-    "timeWeek": 407,
+    "timeDay": 257,
+    "timeWeek": 377,
     "timeMonth": 431,
     "timeYear": 416,
     "dailyMinutesDown": {
@@ -743,8 +737,7 @@
       "2025-02-01": 789,
       "2025-01-18": 190,
       "2025-01-11": 154,
-      "2025-01-10": 363,
-      "2025-01-01": 41
+      "2025-01-10": 363
     }
   },
   {
@@ -759,9 +752,9 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "98.34%",
     "time": 652,
-    "timeDay": 852,
-    "timeWeek": 713,
-    "timeMonth": 697,
+    "timeDay": 436,
+    "timeWeek": 660,
+    "timeMonth": 696,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-12-04": 17,
@@ -820,8 +813,7 @@
       "2025-02-01": 787,
       "2025-01-18": 190,
       "2025-01-11": 154,
-      "2025-01-10": 361,
-      "2025-01-01": 41
+      "2025-01-10": 361
     }
   },
   {
@@ -836,8 +828,8 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.59%",
     "time": 308,
-    "timeDay": 411,
-    "timeWeek": 350,
+    "timeDay": 205,
+    "timeWeek": 321,
     "timeMonth": 344,
     "timeYear": 308,
     "dailyMinutesDown": {
@@ -875,8 +867,7 @@
       "2025-02-01": 783,
       "2025-01-18": 190,
       "2025-01-11": 153,
-      "2025-01-10": 356,
-      "2025-01-01": 41
+      "2025-01-10": 356
     }
   },
   {
@@ -885,16 +876,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lib.belfodil.ca.ico",
     "slug": "lazylibrarian",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "99.08%",
-    "time": 553,
-    "timeDay": 561,
-    "timeWeek": 479,
+    "uptimeYear": "99.09%",
+    "time": 552,
+    "timeDay": 295,
+    "timeWeek": 442,
     "timeMonth": 476,
-    "timeYear": 553,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2025-12-01": 419,
       "2025-11-30": 118,
@@ -928,8 +919,8 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.20%",
     "time": 355,
-    "timeDay": 443,
-    "timeWeek": 375,
+    "timeDay": 226,
+    "timeWeek": 341,
     "timeMonth": 369,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -992,8 +983,7 @@
       "2025-02-01": 781,
       "2025-01-18": 196,
       "2025-01-11": 153,
-      "2025-01-10": 355,
-      "2025-01-01": 61
+      "2025-01-10": 355
     }
   },
   {
@@ -1002,16 +992,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.belfodil.ca.ico",
     "slug": "minio",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "98.64%",
-    "time": 347,
-    "timeDay": 438,
-    "timeWeek": 365,
+    "uptimeYear": "98.65%",
+    "time": 344,
+    "timeDay": 202,
+    "timeWeek": 333,
     "timeMonth": 354,
-    "timeYear": 347,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2025-12-01": 419,
       "2025-11-30": 50,
@@ -1032,11 +1022,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.56%",
-    "time": 532,
-    "timeDay": 530,
-    "timeWeek": 454,
-    "timeMonth": 470,
-    "timeYear": 532,
+    "time": 531,
+    "timeDay": 273,
+    "timeWeek": 418,
+    "timeMonth": 459,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-12-01": 419,
       "2025-11-30": 92,
@@ -1076,10 +1066,10 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.32%",
-    "time": 963,
-    "timeDay": 788,
-    "timeWeek": 728,
-    "timeMonth": 641,
+    "time": 962,
+    "timeDay": 485,
+    "timeWeek": 702,
+    "timeMonth": 638,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2025-12-28": 29,
@@ -1142,15 +1132,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.belfodil.ca.ico",
     "slug": "nodemation",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "95.87%",
-    "time": 672,
-    "timeDay": 428,
-    "timeWeek": 358,
-    "timeMonth": 347,
+    "time": 671,
+    "timeDay": 198,
+    "timeWeek": 322,
+    "timeMonth": 346,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2025-12-01": 457,
@@ -1211,9 +1201,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "98.41%",
-    "time": 565,
-    "timeDay": 782,
-    "timeWeek": 646,
+    "time": 564,
+    "timeDay": 410,
+    "timeWeek": 604,
     "timeMonth": 612,
     "timeYear": 565,
     "dailyMinutesDown": {
@@ -1286,10 +1276,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "94.65%",
-    "time": 622,
-    "timeDay": 611,
-    "timeWeek": 547,
-    "timeMonth": 514,
+    "time": 621,
+    "timeDay": 328,
+    "timeWeek": 504,
+    "timeMonth": 512,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2025-12-01": 419,
@@ -1362,8 +1352,7 @@
       "2025-01-18": 196,
       "2025-01-14": 957,
       "2025-01-11": 152,
-      "2025-01-10": 347,
-      "2025-01-01": 42
+      "2025-01-10": 347
     }
   },
   {
@@ -1378,10 +1367,10 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.64%",
     "time": 323,
-    "timeDay": 418,
-    "timeWeek": 362,
-    "timeMonth": 351,
-    "timeYear": 323,
+    "timeDay": 230,
+    "timeWeek": 333,
+    "timeMonth": 352,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-12-01": 419,
       "2025-11-30": 60,
@@ -1430,8 +1419,7 @@
       "2025-02-10": 319,
       "2025-01-18": 190,
       "2025-01-11": 152,
-      "2025-01-10": 346,
-      "2025-01-01": 42
+      "2025-01-10": 346
     }
   },
   {
@@ -1445,10 +1433,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.36%",
-    "time": 321,
-    "timeDay": 412,
-    "timeWeek": 353,
-    "timeMonth": 336,
+    "time": 320,
+    "timeDay": 203,
+    "timeWeek": 321,
+    "timeMonth": 335,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2025-12-01": 434,
@@ -1479,8 +1467,7 @@
       "2025-02-16": 42,
       "2025-02-10": 317,
       "2025-01-11": 170,
-      "2025-01-10": 344,
-      "2025-01-01": 61
+      "2025-01-10": 344
     }
   },
   {
@@ -1489,18 +1476,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prowlarr.belfodil.ca.ico",
     "slug": "prowlarr",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.75%",
+    "uptimeDay": "73.56%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.75%",
     "time": 384,
-    "timeDay": 467,
-    "timeWeek": 452,
-    "timeMonth": 419,
+    "timeDay": 306,
+    "timeWeek": 413,
+    "timeMonth": 414,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-12-31": 1,
+      "2026-01-01": 72,
+      "2025-12-31": 309,
       "2025-12-01": 419,
       "2025-11-30": 129,
       "2025-11-29": 230,
@@ -1555,8 +1543,7 @@
       "2025-02-16": 42,
       "2025-02-10": 316,
       "2025-01-11": 170,
-      "2025-01-10": 343,
-      "2025-01-01": 61
+      "2025-01-10": 343
     }
   },
   {
@@ -1565,15 +1552,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.belfodil.ca.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.77%",
     "time": 391,
-    "timeDay": 524,
-    "timeWeek": 454,
-    "timeMonth": 414,
+    "timeDay": 255,
+    "timeWeek": 425,
+    "timeMonth": 413,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-12-01": 419,
@@ -1631,8 +1618,7 @@
       "2025-02-16": 42,
       "2025-02-10": 314,
       "2025-01-11": 152,
-      "2025-01-10": 341,
-      "2025-01-01": 61
+      "2025-01-10": 341
     }
   },
   {
@@ -1647,8 +1633,8 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.06%",
     "time": 329,
-    "timeDay": 424,
-    "timeWeek": 355,
+    "timeDay": 195,
+    "timeWeek": 322,
     "timeMonth": 336,
     "timeYear": 329,
     "dailyMinutesDown": {
@@ -1682,15 +1668,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.belfodil.ca.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.79%",
     "time": 402,
-    "timeDay": 531,
-    "timeWeek": 443,
-    "timeMonth": 425,
+    "timeDay": 251,
+    "timeWeek": 414,
+    "timeMonth": 424,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2025-12-01": 419,
@@ -1746,8 +1732,7 @@
       "2025-02-16": 42,
       "2025-02-10": 311,
       "2025-01-11": 169,
-      "2025-01-10": 338,
-      "2025-01-01": 61
+      "2025-01-10": 338
     }
   },
   {
@@ -1756,15 +1741,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.belfodil.ca.ico",
     "slug": "speedtest-tracker",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "98.75%",
-    "time": 1004,
-    "timeDay": 1118,
-    "timeWeek": 1070,
-    "timeMonth": 1022,
+    "time": 1003,
+    "timeDay": 829,
+    "timeWeek": 1013,
+    "timeMonth": 1016,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-12-10": 38,
@@ -1841,9 +1826,9 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "98.67%",
-    "time": 351,
-    "timeDay": 428,
-    "timeWeek": 326,
+    "time": 350,
+    "timeDay": 213,
+    "timeWeek": 307,
     "timeMonth": 330,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -1898,8 +1883,7 @@
       "2025-02-16": 42,
       "2025-02-10": 307,
       "2025-01-11": 151,
-      "2025-01-10": 333,
-      "2025-01-01": 42
+      "2025-01-10": 333
     }
   },
   {
@@ -1914,9 +1898,9 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.85%",
     "time": 345,
-    "timeDay": 425,
-    "timeWeek": 327,
-    "timeMonth": 370,
+    "timeDay": 229,
+    "timeWeek": 306,
+    "timeMonth": 366,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-12-28": 29,
@@ -1968,8 +1952,7 @@
       "2025-02-16": 42,
       "2025-02-10": 305,
       "2025-01-11": 151,
-      "2025-01-10": 332,
-      "2025-01-01": 42
+      "2025-01-10": 332
     }
   },
   {
@@ -1984,10 +1967,10 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.85%",
     "time": 371,
-    "timeDay": 420,
-    "timeWeek": 361,
+    "timeDay": 190,
+    "timeWeek": 330,
     "timeMonth": 342,
-    "timeYear": 372,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2025-12-01": 419,
       "2025-11-30": 59,
@@ -2016,8 +1999,7 @@
       "2025-02-16": 42,
       "2025-02-10": 304,
       "2025-01-11": 151,
-      "2025-01-10": 330,
-      "2025-01-01": 42
+      "2025-01-10": 330
     }
   },
   {
@@ -2031,10 +2013,10 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.73%",
-    "time": 622,
-    "timeDay": 1702,
-    "timeWeek": 810,
-    "timeMonth": 642,
+    "time": 621,
+    "timeDay": 50,
+    "timeWeek": 809,
+    "timeMonth": 604,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2025-12-28": 55,
@@ -2067,8 +2049,7 @@
       "2025-01-19": 79,
       "2025-01-18": 222,
       "2025-01-11": 238,
-      "2025-01-10": 408,
-      "2025-01-01": 60
+      "2025-01-10": 408
     }
   },
   {
@@ -2077,16 +2058,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakapi.belfodil.ca.ico",
     "slug": "wakapi",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "98.44%",
-    "time": 697,
-    "timeDay": 425,
-    "timeWeek": 378,
-    "timeMonth": 357,
-    "timeYear": 697,
+    "uptimeYear": "98.45%",
+    "time": 689,
+    "timeDay": 224,
+    "timeWeek": 350,
+    "timeMonth": 358,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-12-01": 435,
       "2025-11-30": 146,
