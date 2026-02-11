@@ -1,7 +1,7 @@
 url: https://api.mcsrvstat.us/bedrock/simple/home.belfodil.ca:30778
-status: up
-code: 200
-responseTime: 97
-lastUpdated: 2026-02-10T23:31:11.548Z
+status: down
+code: 520
+responseTime: 15259
+lastUpdated: 2026-02-11T15:50:54.685Z
 startTime: 2024-12-31T04:18:46.526Z
 generator: Upptime <https://github.com/upptime/upptime>
