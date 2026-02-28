@@ -1,7 +1,7 @@
 url: https://wakapi.belfodil.ca
-status: up
-code: 200
+status: down
+code: 404
 responseTime: 239
-lastUpdated: 2026-02-27T23:16:27.982Z
+lastUpdated: 2026-02-28T13:55:00.846Z
 startTime: 2025-11-18T22:28:33.442Z
 generator: Upptime <https://github.com/upptime/upptime>
