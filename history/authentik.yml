@@ -1,7 +1,7 @@
 url: https://auth.belfodil.ca
-status: up
-code: 200
-responseTime: 652
-lastUpdated: 2026-02-28T11:59:57.674Z
+status: down
+code: 404
+responseTime: 210
+lastUpdated: 2026-02-28T13:31:44.173Z
 startTime: 2025-11-18T22:28:07.704Z
 generator: Upptime <https://github.com/upptime/upptime>
