@@ -1,7 +1,7 @@
 url: https://immich.belfodil.ca
-status: up
-code: 200
-responseTime: 254
-lastUpdated: 2026-03-06T23:19:37.156Z
+status: down
+code: 503
+responseTime: 228
+lastUpdated: 2026-03-07T19:22:36.171Z
 startTime: 2024-12-31T04:18:33.119Z
 generator: Upptime <https://github.com/upptime/upptime>
