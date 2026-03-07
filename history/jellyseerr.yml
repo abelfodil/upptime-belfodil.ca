@@ -1,7 +1,7 @@
 url: https://jellyseerr.belfodil.ca
-status: up
-code: 200
-responseTime: 636
-lastUpdated: 2026-03-06T23:19:39.025Z
+status: down
+code: 503
+responseTime: 1252
+lastUpdated: 2026-03-07T19:22:41.808Z
 startTime: 2024-12-31T04:18:34.180Z
 generator: Upptime <https://github.com/upptime/upptime>
