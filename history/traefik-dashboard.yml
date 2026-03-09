@@ -1,7 +1,7 @@
 url: https://traefik.belfodil.ca
-status: up
-code: 403
-responseTime: 383
-lastUpdated: 2026-03-09T04:19:37.055Z
+status: down
+code: 522
+responseTime: 19544
+lastUpdated: 2026-03-09T07:11:50.370Z
 startTime: 2024-12-31T04:18:46.040Z
 generator: Upptime <https://github.com/upptime/upptime>
