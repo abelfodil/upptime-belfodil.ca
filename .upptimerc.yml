@@ -24,6 +24,10 @@ sites:
     url: https://grafana.belfodil.ca
     expectedStatusCodes:
       - 403
+  - name: headlamp
+    url: https://headlamp.belfodil.ca
+    expectedStatusCodes:
+      - 403
   - name: home-assistant
     url: https://ha.belfodil.ca
   - name: homer-operator
@@ -36,10 +40,6 @@ sites:
     url: https://jellyfin.belfodil.ca
   - name: jellyseerr
     url: https://jellyseerr.belfodil.ca
-  - name: kubernetes-dashboard
-    url: https://kubernetes.belfodil.ca
-    expectedStatusCodes:
-      - 403
   - name: lazylibrarian
     url: https://lib.belfodil.ca
   - name: miniflux
