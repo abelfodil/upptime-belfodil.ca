@@ -1,7 +1,7 @@
 url: https://obico.belfodil.ca
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2026-03-13T23:20:14.663Z
+status: down
+code: 503
+responseTime: 410
+lastUpdated: 2026-03-14T03:36:06.344Z
 startTime: 2024-12-31T04:18:38.748Z
 generator: Upptime <https://github.com/upptime/upptime>
