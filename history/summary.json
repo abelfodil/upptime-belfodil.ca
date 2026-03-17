@@ -1089,7 +1089,7 @@
     "timeDay": 909,
     "timeWeek": 700,
     "timeMonth": 1076,
-    "timeYear": 854,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2026-03-09": 66,
       "2026-02-28": 88,
@@ -1290,8 +1290,7 @@
       "2025-03-25": 160,
       "2025-03-24": 42,
       "2025-03-23": 972,
-      "2025-03-22": 341,
-      "2025-03-17": 710
+      "2025-03-22": 341
     }
   },
   {
@@ -1968,19 +1967,19 @@
     "url": "https://api.mcsrvstat.us/bedrock/simple/home.belfodil.ca:30778",
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "minecraft-bedrock",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "98.84%",
-    "time": 696,
-    "timeDay": 1027,
-    "timeWeek": 986,
-    "timeMonth": 1034,
-    "timeYear": 720,
+    "time": 695,
+    "timeDay": 729,
+    "timeWeek": 920,
+    "timeMonth": 1012,
+    "timeYear": 719,
     "dailyMinutesDown": {
-      "2026-03-16": 5,
+      "2026-03-17": 2,
       "2026-03-12": 145,
       "2026-03-09": 135,
       "2026-03-02": 71,
