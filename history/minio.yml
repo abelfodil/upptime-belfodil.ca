@@ -1,7 +1,7 @@
 url: https://minio.belfodil.ca
-status: up
-code: 200
-responseTime: 251
-lastUpdated: 2026-03-30T23:27:09.356Z
+status: down
+code: 503
+responseTime: 406
+lastUpdated: 2026-03-30T23:54:39.448Z
 startTime: 2025-11-18T22:28:19.899Z
 generator: Upptime <https://github.com/upptime/upptime>
