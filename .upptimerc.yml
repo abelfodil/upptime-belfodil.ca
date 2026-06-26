@@ -30,12 +30,12 @@ sites:
       - 403
   - name: home-assistant
     url: https://ha.belfodil.ca
+  - name: homebox
+    url: https://homebox.belfodil.ca
   - name: homer-operator
     url: https://dash.belfodil.ca
   - name: immich
     url: https://immich.belfodil.ca
-  - name: inventree
-    url: https://inventree.belfodil.ca
   - name: jellyfin
     url: https://jellyfin.belfodil.ca
   - name: jellyseerr
