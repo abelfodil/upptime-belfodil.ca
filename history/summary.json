@@ -1559,11 +1559,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mcsrvstat.us.ico",
     "slug": "minecraft-bedrock",
     "status": "down",
-    "uptime": "95.89%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.19%",
+    "uptime": "95.88%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "94.18%",
     "time": 1067,
     "timeDay": 7070,
     "timeWeek": 2363,
@@ -1624,7 +1624,7 @@
       "2026-05-30": 24,
       "2026-06-30": 798,
       "2026-06-29": 351,
-      "2026-08-31": 2
+      "2026-08-31": 63
     }
   },
   {
