@@ -1,7 +1,7 @@
 url: https://ha.belfodil.ca
-status: down
-code: 503
-responseTime: 130
-lastUpdated: 2026-09-03T23:32:57.751Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2026-09-04T00:32:31.643Z
 startTime: 2025-11-18T22:28:12.418Z
 generator: Upptime <https://github.com/upptime/upptime>
